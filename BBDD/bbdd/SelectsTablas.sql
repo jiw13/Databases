@@ -1,0 +1,12 @@
+SELECT * FROM practicabbdd.direccion;
+SELECT * FROM practicabbdd.cartero ;
+SELECT * FROM practicabbdd.oficina;
+SELECT * FROM practicabbdd.turno;
+SELECT * FROM practicabbdd.ruta;
+SELECT * FROM practicabbdd.coche;
+SELECT * FROM practicabbdd.reparto;
+SELECT * FROM practicabbdd.usuario_generico;
+SELECT * FROM practicabbdd.calle;
+SELECT * FROM practicabbdd.segmento_calle;
+SELECT * FROM practicabbdd.recogida;
+SELECT * FROM practicabbdd.usuario_identificado;

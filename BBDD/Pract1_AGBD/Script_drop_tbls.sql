@@ -1,0 +1,3 @@
+DROP TABLESPACE TBLS_personas;
+DROP TABLESPACE TBLS_cursos;
+DROP TABLESPACE TBLS_matriculados_interesados;
