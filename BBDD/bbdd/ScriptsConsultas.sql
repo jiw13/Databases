@@ -32,15 +32,7 @@ cartas normales y certificadas (devolver el tipo de carta tambi´en) dentro del 
 de envi´o “AR-MAD-O3”.
  
  */
- 
- /*
- SELECT usuario_identificado.nombre AS nombreUI,usuario_identificado.apellidos AS apellidosUI,usuario.generico.nombre AS nombreUG,usuario.generico.apellidos AS apellidosUG,numero,piso,letra,portal,nombre_calle, carta.id, carta_certificada.id 
-                                                                       FROM usuario_identificado ui INNER JOIN entrega_certificada_cc_usuario entrega_cc
-                                                                                                    ON ui.dni = entrega_cc.dni_usuario
-                                                                                                    INNER JOIN 
-                                                                                                    #NI PUTA IDEA DE COMO COJONES SE HACE
-                                                                                                    
-*/               
+  
 /*
 d) Obtener el numero total de repartos realizados por cada cartero en las diferentes
 oficinas ordenado de mayor a menor.
